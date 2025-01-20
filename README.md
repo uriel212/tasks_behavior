@@ -14,6 +14,12 @@ This is a simple tasks manager api working with jwt authentication.
 - Clone the repository
 `git clone https://github.com/uriel212/tasks_behavior.git`
 
+- Install the dependencies
+`composer install`
+
+- Create a .env file
+`cp .env.example .env`
+
 - Run the migrations with
 `php artisan migrate`
 
